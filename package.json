@@ -1,7 +1,7 @@
 {
-  "name": "react-native-qrcode-scanner",
-  "version": "1.5.5",
-  "description": "A QR code scanner for React Native.",
+  "name": "react-native-qrcode-scanner-v2",
+  "version": "1.5.6",
+  "description": "A QR code scanner for React Native. Updated dependency",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moaazsidat/react-native-qrcode-scanner.git"
+    "url": "git+https://github.com/Prince0fTime/react-native-qrcode-scanner-v2.git"
   },
   "keywords": [
     "react-native",
@@ -20,10 +20,10 @@
     "scanner",
     "barcode"
   ],
-  "author": "Moaaz Sidat",
+  "author": "Moaaz Sidat, prince0ftime",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/moaazsidat/react-native-qrcode-scanner/issues"
+    "url": "https://github.com/Prince0fTime/react-native-qrcode-scanner-v2/issues"
   },
   "dependencies": {
     "prop-types": "^15.5.10",
@@ -41,7 +41,7 @@
   "peerDependencies": {
     "react-native-camera": ">=1.0.2"
   },
-  "homepage": "https://github.com/moaazsidat/react-native-qrcode-scanner#readme",
+  "homepage": "https://github.com/Prince0fTime/react-native-qrcode-scanner-v2#readme",
   "release": {
     "plugins": [
       "@semantic-release/commit-analyzer",
@@ -56,9 +56,5 @@
       "prettier --single-quote --trailing-comma es5 --tab-width 2 --write",
       "git add"
     ]
-  },
-  "funding": {
-    "type": "opencollective",
-    "url": "https://opencollective.com/react-native-qrcode-scanner"
   }
 }

@@ -1,4 +1,6 @@
 # react-native-qrcode-scanner
+ this fork was originally made from Moaaz Sidat's https://github.com/moaazsidat/react-native-qrcode-scanner/
+ only changes made are to update a package dependency
 
 This library was originally written as a plug and play QRCode scanner for React Native without a ton of setup. Since then, the ecosystem has evolved quite a bit, resulting in newer libraries requiring less setup and reducing the need for this project to exist. As such this library has been archived. 
 
